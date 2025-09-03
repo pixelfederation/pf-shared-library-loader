@@ -1,0 +1,6 @@
+clusterMap:
+  dev : wrk-dev
+  test: wrk-dev
+  staging: wrk-dev
+  prod: wrk-prod
+  shared: shared
